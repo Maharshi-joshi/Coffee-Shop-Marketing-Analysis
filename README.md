@@ -31,6 +31,7 @@ The **Marketing Performance Dashboard** provides an interactive view of key metr
 - **Average Customer Value** across different segments, providing insights into customer profitability.
 
 [Access the Dashboard here](https://public.tableau.com/views/CoffeeShopMarketingAnalysis_17253757041670/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ![image](https://github.com/user-attachments/assets/4d7b5c41-3351-416c-a60b-bb551f34f954)
 
 

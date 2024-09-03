@@ -48,3 +48,22 @@ The **Maven Coffee Shop Marketing Analysis** guides the viewer through key insig
 
 > **Note:** Click the link above to open the interactive Tableau story in your browser.
 
+
+## Conclusion
+
+### Business Case
+
+Maven Cafe aims to boost customer engagement and sales through targeted promotions in its Rewards Program. Over 30 days, a test campaign was conducted with various promotional offers (BOGO, discounts, and informational ads) to identify key customer segments and evaluate offer performance.
+
+### Key Insights
+
+- **High-Value Segments:** Customers aged **40-70** with incomes of **$70K-$80K** showed the highest conversion rates, especially females in the **40-50 age group**.
+- **Offer Effectiveness:** **BOGO** offers drove high engagement, while **discount** offers had the best conversion rates. **Informational** offers had high interest but low completion.
+- **Channel Performance:** **Email** and **mobile** channels showed the best conversion rates.
+- **Timing Matters:** Offers sent in the **second half of the month** had a higher completion rate.
+
+### Impact
+
+- Focused targeting on high-value segments to increase engagement.
+- Optimized offer strategy using BOGO and discount offers for specific demographics.
+- Improved channel strategies and timing to maximize conversion

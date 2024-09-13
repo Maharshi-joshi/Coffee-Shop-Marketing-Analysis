@@ -15,9 +15,10 @@ These datasets were taken from Maven Analytics website and then merged in python
 
 This project evaluates several key metrics to understand customer behavior and the effectiveness of promotional offers in the Maven Cafe Rewards program. 
 The primary metrics include:
-1. **Conversion rate** (the percentage of customers who completed an offer after viewing it), click-through rate (CTR) (the percentage of customers who viewed an offer after receiving it)
+1. **Click-through rate (CTR)** (the percentage of customers who viewed an offer after receiving it)
 2. **Average customer value (ACV)** (the average revenue generated per customer).
-3. **Conversion rate** (the percentage of offers completed after being viewed)
+3. **Conversion rate** (the percentage of offers completed after being viewed).
+   
 This metrics helped identify high-engagement segments and determine which offers perform best across different customer demographics, including age, income, and gender.
 
 ## Interactive Dashboard
